@@ -126,9 +126,7 @@ It is built for:
 
 ## 📷 Project Media
 
-> You can upload pictures/videos in the `assets/` folder and embed them like below.
-
-![Fire Detection Demo](assets/fire-demo.)
+![Fire Detection Demo]([assets](https://github.com/Anirban3030/Next-Gen-Fire-Fighting-Robot-using-camera-gas-sim800l-module-/blob/main/assets/The%20bot.jpeg))
 
 
 
