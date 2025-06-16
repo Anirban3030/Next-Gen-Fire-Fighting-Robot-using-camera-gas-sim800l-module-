@@ -126,7 +126,10 @@ It is built for:
 
 ## 📷 Project Media
 
-![Fire Detection Demo]([assets](https://github.com/Anirban3030/Next-Gen-Fire-Fighting-Robot-using-camera-gas-sim800l-module-/blob/main/assets/The%20bot.jpeg))
+<p align="center">
+  <img src="assets/The bot.jpeg" width="600"/>
+</p>
+
 
 
 
